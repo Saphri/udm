@@ -19,6 +19,7 @@
     {
       "name": "GIT_REPO",
       "required": true,
+      "value": "https://Saphri@bitbucket.org/Saphri/udm.git",
       "description": "Git repository, required"
     },
     {
